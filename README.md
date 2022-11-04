@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 I’m currently studying Information Technology at CEFET/RJ.
+- 👨‍💻 I.T. Student
     
 ## 🖥️ Skills
 
