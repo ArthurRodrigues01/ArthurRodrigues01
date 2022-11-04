@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 👨‍💻 I’m currently studying Information Technology at CEFET/RJ.
+    
+## 🖥️ Skills
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,react-native,git" />
+  </a>
+</p>
 <!--
 **ArthurRodrigues01/ArthurRodrigues01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
