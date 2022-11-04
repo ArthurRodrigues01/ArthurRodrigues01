@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, what's up?
 
 - 👨‍💻 I.T. Student
     
